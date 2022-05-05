@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">nfc_project</string>
+
+    <string name="loading_label">Waiting</string>
+    <string name="message_warning_empty_sim">No simcard.</string>
+    <string name="processed">Processed</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete All</string>
+    <string name="text_about">About</string>
+    <string name="reset">Reset</string>
+    <string name="run">Run</string>
+    <string name="back">Back</string>
+    <string name="ok">OK</string>
+    <string name="detail">Detail</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="delete_history">Delete history</string>
+    <string name="deleted">Deleted</string>
+    <string name="delete_all_history">Delete all history</string>
+    <string name="pass">Pass</string>
+    <string name="fail">Fail</string>
+    <string name="systemInfo_version">Android Version: </string>
+    <string name="systemInfo_modem">Modem: </string>
+    <string name="systemInfo_serial">Serial: </string>
+    <string name="systemInfo_imei1">IMEI1: </string>
+    <string name="systemInfo_imei2">IMEI2: </string>
+    <string name="systemInfo_bt_address">BT Address: </string>
+    <string name="systemInfo_wifi_mac">WIFI MAC: </string>
+    <string name="systemInfo_diag_support">Diag support: </string>
+    <string name="systemInfo_support">YES</string>
+    <string name="systemInfo_not_support">NO</string>
+    <string name="speaker_info">Hear speaker in 3s</string>
+    <string name="earpiece_info">Hear earpiece in 3s</string>
+    <string name="mic1_info">Record mic1 in 3s then play audio in 3s</string>
+    <string name="mic2_info">Record mic2 in 3s then play audio in 3s</string>
+    <string name="lcd_info">Welcome lcd screen</string>
+    <string name="key_info">Welcome key screen</string>
+    <string name="vibrator_info">Welcome vibrator screen</string>
+    <string name="gyroscope_info">Welcome gyroscope screen</string>
+    <string name="accelero_info">Welcome accelerometer screen</string>
+    <string name="magnetic_info">Welcome magnetic screen</string>
+    <string name="gas_info">Welcome gas screen</string>
+    <string name="simcard1_info">Welcome simcard1 screen</string>
+    <string name="wifi_info">Welcome wifi screen</string>
+    <string name="bluetooth_info">Welcome bluetooth screen</string>
+    <string name="nfc_info">Welcome nfc screen</string>
+    <string name="tel_simcard1_info">Calling to 900</string>
+    <string name="keypad_backlight_info">Welcome keypad backlight screen</string>
+    <string name="lcd_finish_test">finish test</string>
+    <string name="sim_list">Find SIM list: </string>
+    <string name="sim_slot">SIM%1$d</string>
+    <string name="sim_deteched">Sim deteched</string>
+    <string name="sim_not_deteched">Sim not deteched</string>
+    <string name="sensor_wrong_data_lenght">Data Internal Error</string>
+    <string name="sensor_result_one">Value = %1$s \n</string>
+    <string name="sensor_result_three">X = %1$s \nY = %2$s \nZ = %3$s \n</string>
+    <string name="sensor_not_support">Not support,please check</string>
+    <string name="case_loading">Loading....</string>
+    <string name="wifi_device_list">Find device list:</string>
+    <string name="wifi_level">Level= </string>
+    <string name="wifi_freq">Freq= </string>
+    <string name="test_failed">Test FAIL</string>
+    <string name="test_pass">Test PASS</string>
+
+
+    <string name="select">Select</string>
+
+</resources>

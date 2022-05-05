@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scan_result_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/black"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tv_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="@dimen/min_width_content_result_scanner"
+        android:text="SGNRSP:"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/ts_ginno_content"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imv_status"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:background="@android:color/transparent"
+        android:scaleType="centerInside"
+        android:src="@drawable/ic_rectangle" />
+
+</LinearLayout>

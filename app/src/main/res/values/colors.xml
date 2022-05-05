@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="color_text_header">#2D9CDB</color>
+    <color name="color_rim">#454545</color>
+    <color name="color_grey">#BDBDBD</color>
+
+
+    <color name="sky_blue">#47D9CC</color>
+    <color name="sky_blue_light">#CAEEEA</color>
+    <color name="violet">#A25FE0</color>
+    <color name="violet_light">#E8DCF4</color>
+    <color name="blue">#448AD2</color>
+    <color name="blue_light">#C7E3F8</color>
+    <color name="green">#4AC840</color>
+    <color name="green_light">#CDF7C9</color>
+    <color name="color_title_about">#2D9CDB</color>
+    <color name="color_blue_">#2D9CDB</color>
+    <color name="color_red_">#FC0D1B</color>
+    <color name="safe_state_scan_sim_color">#0A84FF</color>
+    <color name="note_color_text_color">#828282</color>
+    <color name="bg_base_main">#000</color>
+    <color name="message_warning_textcolor">#fff</color>
+    <color name="timestamp_history_scan_item_color">#fff</color>
+    <color name="scanning_sim_with_result_safe_color">#2D9CDB</color>
+    <color name="scanning_sim_with_result_dangerous_color">#FC0D1B</color>
+    <color name="item_scanning_history_focused_color">#262626</color>
+    <color name="bg_menu_scanning_history">#6A272626</color>
+    <color name="history_scanning_empty_textcolor">#fff</color>
+    <color name="scan_sim_history_detail_host_title_color">#ffffff</color>
+    <color name="loading_label_text_color">#ffffff</color>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MenuSecurityView">
+        <attr name="ginno_text" format="string" />
+        <attr name="ginno_icon" format="reference" />
+        <attr name="ginno_show_icon" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="SecurityTextView">
+        <attr name="fontName" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="SimScannerView">
+        <attr name="ginno_scan_text" format="string" />
+        <attr name="ginno_scan_icon" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="StatusView">
+        <attr name="ginno_status_text" format="string" />
+        <attr name="ginno_status_icon" format="reference" />
+        <attr name="ginno_color_text" format="color" />
+        <attr name="ginno_background" format="reference" />
+        <attr name="ginno_state" format="integer" />
+        <attr name="ginno_gravity" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="RoundedHorizontalProgress">
+        <attr name="backgroundColor" format="color" />
+        <attr name="progressColor" format="color" />
+        <attr name="isRounded" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="ItemMenuView">
+        <attr name="ginno_text_menu" format="string" />
+        <attr name="ginno_drawable_menu" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="ComboTextView">
+        <attr name="ginno_text_title" format="string" />
+        <attr name="ginno_text_content" format="string" />
+        <attr name="ginno_color_content" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="ChangeDataView">
+        <attr name="text_title" format="string" />
+        <attr name="text_content" format="string" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_footer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/black"
+    tools:context=".fragment.FooterFragment">
+
+    <View
+        android:id="@+id/v_rim_footer"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/color_rim" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/v_rim_footer"
+        android:orientation="horizontal"
+        android:paddingLeft="8dp"
+        android:paddingTop="2dp"
+        android:paddingRight="8dp"
+        android:paddingBottom="6dp">
+
+        <com.trongnhat.nfc_project.view.SecurityTextView
+            android:id="@+id/tv_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="left"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/text_size_footer" />
+
+        <com.trongnhat.nfc_project.view.SecurityTextView
+            android:id="@+id/tv_center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="center"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/text_size_footer" />
+
+        <com.trongnhat.nfc_project.view.SecurityTextView
+            android:id="@+id/tv_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="right"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/text_size_footer" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
